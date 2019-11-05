@@ -22,7 +22,7 @@
     "aws-sdk": "^2.488.0",
     "dotenv": "^8.0.0",
     "express": "^4.17.1",
-    "mongoose": "^5.6.3",
+    "mongoose": "^5.7.5",
     "multer": "^1.4.1"
   },
   "devDependencies": {
